@@ -114,5 +114,17 @@ var member = [
   {
     "phone": 29,
     "name": "张庆杰"
+  },
+  {
+    "phone": 30,
+    "name": "孙宜欣"
+  },
+  {
+    "phone": 31,
+    "name": "郭善儿"
+  },
+  {
+    "phone": 32,
+    "name": "所有人"
   }
 ]
