@@ -125,6 +125,22 @@ var member = [
   },
   {
     "phone": 32,
+    "name": "胡任钊"
+  },
+  {
+    "phone": 33,
+    "name": "黄柯耀"
+  },
+  {
+    "phone": 34,
+    "name": "李俊儒"
+  },
+  {
+    "phone": 35,
+    "name": "张奕"
+  },
+  {
+    "phone": 36,
     "name": "所有人"
   }
 ]
